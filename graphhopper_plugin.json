@@ -1,0 +1,10 @@
+{
+    "Keys": ["graphhopper"],
+    "Provider": "graphhopper",
+    "Version": 100,
+    "Experimental": false,
+    "Features": [
+        "OnlineRoutingFeature",
+        "ReverseGeocodingFeature"
+    ]
+}
